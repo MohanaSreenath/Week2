@@ -1,10 +1,10 @@
-## Week 2: Object-Oriented Programming in Java
+# Week 2: Object-Oriented Programming in Java
 Welcome to the repository for Week 2 of our Java learning journey. This week builds on the foundational knowledge from Week 1 and dives into core object-oriented programming (OOP) concepts in Java, including classes, objects, constructors, important keywords, OOP design principles, inheritance, and encapsulation.
 
 ## Table of Contents
-# Overview
+## Overview
 
-# Topics Covered
+## Topics Covered
 
 Day 1: Java Classes and Objects
 
@@ -18,16 +18,16 @@ Day 5: Inheritance
 
 Day 6: Encapsulation
 
-# Prerequisites
+## Prerequisites
 
-# How to Use This Repository
+## How to Use This Repository
 
-# Next Steps
+## Next Steps
 
-# Overview
+## Overview
 Week 2 is focused on mastering the pillars of object-oriented programming in Java. You will learn how to define and use classes and objects, implement constructors, understand important Java keywords, design robust systems using OOP principles, and apply inheritance and encapsulation to build maintainable and scalable Java applications.
 
-# Topics Covered
+## Topics Covered
 Day 1: Java Classes and Objects
 
 Defining classes and creating objects
@@ -80,14 +80,14 @@ Getters and setters
 
 Designing robust classes (e.g., Bank, Employee, Food, Hospital, Library, Ride, Vehicle)
 
-# Prerequisites
+## Prerequisites
 Completion of Week 1 (Java basics)
 
 Java Development Kit (JDK) installed
 
 Familiarity with a code editor or IDE (VS Code, IntelliJ IDEA)
 
-# How to Use This Repository
+## How to Use This Repository
 The Week2 folder is organized into daily subfolders, each corresponding to a major OOP concept.
 
 Each day's folder contains multiple example Java programs, typically at different difficulty levels (Level1, Level2).
